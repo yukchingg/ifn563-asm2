@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4BEC9575-207D-4A95-A1A3-E77901032BEF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOSGame.cs">
+    <Files>
+      <File FileName="../../../IFN564/ifn564/Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="GameSave.cs" />
+      <File FileName="SOSGame.cs" Line="68" Column="38" />
+      <File FileName="TurnRecord.cs" />
+      <File FileName="GamingBoard.cs" />
+      <File FileName="Help.cs" />
+      <File FileName="Launcher.cs" />
+      <File FileName="Game.cs" />
+      <File FileName="Player.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
